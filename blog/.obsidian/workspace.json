@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "df31cea5bec984db",
+    "type": "split",
+    "children": [
+      {
+        "id": "96da2484989a3f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e6904b3c20b180",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "49425f7902ef6163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践/git 使用教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edaf84f9293feda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b591c638b3ab925f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42cc98d5ec389335",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e55e9c4ac9628ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37e9caa0646df019",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b81ff5b50503add",
+    "type": "split",
+    "children": [
+      {
+        "id": "6143aff9c43fe12e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fa91b8f101d2dca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实践/git 使用教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00e9828bf68234e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实践/git 使用教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e1e910937540fd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0397280766e6dcc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实践/git 使用教程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "49425f7902ef6163",
+  "lastOpenFiles": [
+    "blog/实践/pyhton_100_days.md",
+    "blog/实践/git 使用教程.md",
+    "通用头像.jpg",
+    "git 使用教程.md",
+    "实践/pyhton_100_days.md",
+    "实践/windows+ubuntu 双系统彻底卸载ubuntu操作系统.md",
+    "实践/kali linux U盘启动.md",
+    "实践/markdown 语法.md",
+    "开题报告/无障碍设计规范.md",
+    "开题报告/开题报告.md"
+  ]
+}
